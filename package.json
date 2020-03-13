@@ -1,0 +1,10 @@
+{
+  "name": "simpleFullEx",
+  "author": "Mr. Yee",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
